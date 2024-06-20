@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "dir-scanner"
+name = "dirscanner"
 version = "0.1.0"

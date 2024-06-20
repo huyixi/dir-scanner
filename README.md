@@ -1,1 +1,1 @@
-# dir-scanner
+# dirscanner
